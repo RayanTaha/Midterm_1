@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rayan Taha Almudawah-MidTerm-1, 2022</string>
+    <string name="btn">Go To Main Activity</string>
+    <string name="title1">you are in activity1</string>
+    <string name="title2">you are in activity2</string>
+    <string name="title3">you are in activity3</string>
+</resources>
